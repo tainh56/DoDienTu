@@ -6,10 +6,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>AdminLTE 2 | Dashboard</title>
+        <title>Admin</title>
         <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
         <!-- Bootstrap 3.3.2 -->
-        <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="../bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />
         <!-- Font Awesome Icons -->
         <link href="../font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
         <!-- Ionicons -->
@@ -20,7 +20,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
               page. However, you can choose any other skin. Make sure you
               apply the skin class to the body tag so the changes take effect.
         -->
-        <link href="../dist/css/skins/skin-blue.min.css" rel="stylesheet" type="text/css" />
+        <link href="../dist/css/skins/skin-purple.css" rel="stylesheet" type="text/css" />
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -49,7 +49,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     |---------------------------------------------------------|
     
     -->
-    <body class="skin-blue">
+    <body class="skin-purple">
         <div class="wrapper">
             <?php include '../includes/Header.php'; ?>
             <?php include 'Admin_ChucNang.php'; ?>
@@ -63,8 +63,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
                         <small>Optional description</small>
                     </h1>
                     <ol class="breadcrumb">
-                        <li><a href="#"><i class="fa fa-dashboard"></i> Level</a></li>
-                        <li class="active">Here</li>
+                        <li><a href="#"><i class="fa fa-dashboard"></i> login</a></li>
+                        <li class="active">Admin</li>
                     </ol>
                 </section>
 

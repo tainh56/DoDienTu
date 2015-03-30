@@ -5,16 +5,16 @@
     <section class="sidebar">
 
         <!-- Sidebar user panel (optional) -->
-        <div class="user-panel">
+<!--        <div class="user-panel">
             <div class="pull-left image">
                 <img src="../dist/img/user2-160x160.jpg" class="img-circle" alt="User Image" />
             </div>
             <div class="pull-left info">
                 <p>Admin</p>
-                <!-- Status -->
+                 Status 
                 <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
             </div>
-        </div>
+        </div>-->
 
         <!-- search form (Optional) -->
         <form action="#" method="get" class="sidebar-form">
@@ -37,7 +37,7 @@
                 <a href="#"><span>Sản phẩm</span> <i class="fa fa-angle-left pull-right"></i></a>
                 <ul class="treeview-menu">
                     <li><a href="#">Danh sách</a></li>
-                    <li><a href="#">Thêm mới</a></li>
+                    <li><a href="ThemSanPham.php">Thêm mới</a></li>
                 </ul>
             </li>
         </ul><!-- /.sidebar-menu -->
